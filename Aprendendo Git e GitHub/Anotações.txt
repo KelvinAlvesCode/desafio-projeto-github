@@ -1,0 +1,9 @@
+Git é um sistema de controle de versão distribuído.
+GitHub é uma  plataforma de gerenciamento de código.
+git init: Inicia um repositório.
+git status: Verifica o estado dos arquivos e diretórios.
+git add: Adiciona um arquivo ou diretório específico podendo também utilizar * ou . para adicionar tudo de uma vez.
+git commit -m "": Commita um arquivo inserindo uma string com uma mensagem sobre o que foi feito.
+git pull: Atualiza o repositório local de acordo com o repositório do GitHub.
+git push: Envia arquivos e/ou diretórios para o repositório remoto.
+git clone link_do_repositório_do_github_que_deseja_clonar: Clona para um diretório local um repositório do GitHub.
